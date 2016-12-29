@@ -1,5 +1,5 @@
 ---
-title: "Reproduceable Research - Course Project 1"
+title: "Reproducible Research - Course Project 1"
 author: "Eric Carr (eacarr2@illinois.edu)"
 date: "12/28/2016"
 output:
